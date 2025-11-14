@@ -64,3 +64,6 @@ Because software should be something people trust, not only use it.
 I’m around if you need.
 
 Discord: **mysticayevuh**
+
+## Credits
+This README are inspiried by my friend, [maybeizen](https://github.com/maybeizen)
